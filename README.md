@@ -1,4 +1,4 @@
 # weather-prediction-ci-cd
 created by Mestapha Mensouri
 
-# train it again 
+# train it again train the model
