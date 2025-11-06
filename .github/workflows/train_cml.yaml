@@ -25,7 +25,7 @@ jobs:
       
       - name: Train model
         run: |
-          python3 preprocess_dataset.py
+          python3 preprocessing_data.py
           python3 train.py
       
       - name: Write CML report
